@@ -46,4 +46,4 @@ function togleclick(event) {
     console.log(event.target.dataset)
 }
 
- dispalayitem(items, itemList)
+ dispalayitem(items, itemList);
